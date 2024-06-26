@@ -1,7 +1,7 @@
 
 ## Introduction
 
-A Basic HTML to pdf based on WKHTMLtopdf in RUST
+A Basic HTML to pdf converter based on WKHTMLtopdf in RUST
 
 ## How to run 
 
